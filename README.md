@@ -13,9 +13,3 @@ Day 2
                     Desktop env't
                      Window manager
           
-HOW to use kali?
-a)main os/main boot 
-b)dual boot 
-c)live boot 
-d)cloud-terminal
-e)Virtual Machine 
