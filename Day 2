@@ -4,3 +4,43 @@ Day 2
  App interact with Cpu memory...
           Shell is used to interact with kernal
       Types of shell
+
+Types of shells
+Based on their features there are money shells.
+SH
+BASH
+ZSH
+FISH
+What is OS- Operating system??
+OS- means the main software part of computer that helps to work on. and It contains:
+
+Kernel
+Softwares
+Desktop environment
+File extensions
+Window manager
+       Why Linux is usefull?
+fast
+Most used
+Most hacking tools
+Most secured
+          Linux distributions/distro
+linux kernel
+packegess(GNU)
+packege manager
+desktop UI
+So many distros…
+Debian
+Kali linux
+Ubuntu
+Parrot
+         
+Do windows have distros?
+Windows is not open-source so peoples won’t use / edit it, so there won’t be other kind. It just give updates and adds some feature on it.
+
+How can we use it?
+Main OS/ Main-boot
+DualBoot 
+Live boot
+Cloud terminals
+Virtual Machine
